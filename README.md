@@ -1,6 +1,6 @@
 👋 Hi, I’m Colby Tang!
 
-I’m interested in creating web applications and video games. I graduated from St. Edward's University with a Bachelor of Science in Computer Science.
+I’m interested in creating web applications and video games. In 2021, I graduated from St. Edward's University with a Bachelor of Science in Computer Science.
 
 I’m currently learning ReactJS, Java, Python, Unity Game Engine, and MongoDB.
 
