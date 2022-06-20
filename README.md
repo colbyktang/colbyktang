@@ -26,7 +26,7 @@ I love video games and I mostly game on PC. Some of my favorite game series are:
 * S.T.A.L.K.E.R.
 * Yakuza
 
-You can reach me at cobtang@gmail.com
+You can reach me at cobtang@gmail.com or LinkedIn at https://www.linkedin.com/in/cobtang/
 
 <!---
 colbyktang/colbyktang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
