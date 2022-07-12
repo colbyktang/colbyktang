@@ -4,10 +4,10 @@ I’m interested in creating web applications, mobile apps, and as a hobby, vide
 
 As a software engineer I'm currently learning:
 * Java
+* PostgreSQL
+* AWS
 * Python
 * ReactJS
-* Unity Game Engine
-* MongoDB
 
 I love video games and I mostly game on PC. Some of my favorite game series are:
 
