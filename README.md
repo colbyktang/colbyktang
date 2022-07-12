@@ -11,8 +11,7 @@ As a software engineer I'm currently learning:
 
 I love video games and I mostly game on PC. Some of my favorite game series are:
 
-* Final Fantasy XIV
-* Final Fantasy
+* Final Fantasy (especially XIV)
 * Soulsborne
 * Monster Hunter
 * Arma
