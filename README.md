@@ -3,11 +3,10 @@
 I’m interested in creating web applications, mobile apps, and as a hobby, video games. I graduated from St. Edward's University with a Bachelor of Science in Computer Science in May 2021.
 
 As a software engineer I'm currently learning:
-* Java
+* Java (Spring)
 * PostgreSQL
 * AWS
-* Python
-* ReactJS
+* Angular
 
 I love video games and I mostly game on PC. Some of my favorite game series are:
 
